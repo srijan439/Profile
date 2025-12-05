@@ -1,95 +1,119 @@
-# Hi 👋, I'm Srijan Mishra
+<!-- GitHub Profile README for Srijan Mishra -->
 
-### A passionate Computer Science Engineer & Machine Learning enthusiast from India
-
-## 🚀 About Me
-
-* 🌱 I’m currently learning **Reinforcement Learning, advanced Deep Learning techniques, and full-stack web development (React + Django)**.
-* 💡 I love building **ML models, automation tools, and full-stack apps** that solve practical problems.
-* 👯 I’m open to collaborating on **open-source ML, RL and full-stack projects** — especially anything that combines research with production-ready code.
-* 📫 How to reach me: **[srijanm89@gmail.com](mailto:srijanm89@gmail.com)**  or connect on LinkedIn.
-* ⚡ Fun fact: I enjoy turning research ideas into small reproducible projects — I’ve implemented reinforcement learning agents and classical ML pipelines for real datasets.
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,django,html,css,sql,git,github,linux" />
-</p>
-
-**Main skills:** Python, JavaScript, React, Django, Machine Learning (scikit-learn, PyTorch/TensorFlow), Reinforcement Learning, SQL, Git/GitHub.
-
----
-
-## 📌 Featured Projects
-
-### 🔹 **Human-vs-AI (Reinforcement Learning)**
-
-Trained a reinforcement learning agent to solve a custom environment and packaged the training scripts and model checkpoints. The project includes reproducible training code, evaluation notebooks, and a short report summarizing experiments and hyperparameter choices.
-⭐ Tech: *Python, PyTorch, RLlib (or custom training loop)*
-📂 Repo: `<link-to-repo>`
-
-### 🔹 **Spam Classifier**
-
-A complete NLP pipeline — data cleaning, feature extraction, model training (Naive Bayes + baseline neural model), evaluation, and deployment notes. Includes cross-validation and an explanation of feature importance.
-⭐ Tech: *Python, scikit-learn, pandas*
-📂 Repo: `<link-to-repo>`
-
-### 🔹 **Portfolio / Profile Website**
-
-Single-file and React versions of my personal portfolio that showcase projects, CV and contact links. Designed to be minimal, responsive and easy to customize. Perfect for GitHub Pages.
-⭐ Tech: *HTML, CSS, JavaScript (or React)*
-📂 Repo: `<link-to-repo>`
-
-> *Tip:* For each project add a short demo GIF, direct link to the live demo (if any), and a `README.md` in the project repo covering how to run experiments and reproduce results.
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">👋 Hi, I'm <span style="color:#58a6ff;">Srijan Mishra</span></h1>
+<h3 align="center">AI & Machine Learning Enthusiast | CSE Undergraduate | Developer</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-github-username>&layout=compact&theme=tokyonight" height="165"/>
+  <a href="mailto:srijanm89@gmail.com"><img src="https://img.shields.io/badge/-srijanm89%40gmail.com-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/srijan-mishra05/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/srijan439"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white"></a>
 </p>
-
-*(Replace `<your-github-username>` with your actual GitHub username to render stats.)*
 
 ---
 
-## 🔥 GitHub Streak
+## 👨‍💻 About Me
+
+I’m a **Computer Science and Engineering** student specializing in **Artificial Intelligence and Machine Learning**, passionate about building intelligent systems that learn, adapt, and solve real-world problems.
+
+My interests revolve around:
+
+- 🤖 **Machine Learning & Predictive Modelling**  
+- 🎮 **Reinforcement Learning (Game-based AI)**  
+- 🧠 **Neural Networks & Deep Learning**  
+- 🌐 **Web Development & Interactive UI/UX**  
+- 🛠️ **Automation & Problem-Solving**
+
+I love transforming ideas into working prototypes — whether it's an ML model, a game AI, or a complete web-based application.
+
+---
+
+## 🚀 Current Focus
+
+🔭 Currently pursuing specialization in **AI & Machine Learning**  
+🌱 Learning **Deep Learning, TensorFlow, PyTorch, and ML Pipelines**  
+💡 Improving my skills in **model optimization, data preprocessing, and feature engineering**  
+🎯 Goal: Build more industry-grade ML and AI-driven systems  
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
+➡️ Python • C++ • Java • HTML • CSS • JavaScript  
+
+### **AI / ML Tools**
+➡️ NumPy • Pandas • Scikit-Learn • Matplotlib • Reinforcement Learning  
+➡️ Data Preprocessing • Feature Engineering • Model Evaluation  
+
+### **Developer Tools**
+➡️ Linux/Kali • VMware • Ubuntu • Git • VS Code • Jira  
+
+---
+
+## 🔬 AI & ML Projects
+
+### 🎮 **Battle-with-AI (Reinforcement Learning Game AI)**
+A custom-built interactive game designed using **Reinforcement Learning concepts** to simulate decision-making and adaptive gameplay.
+
+- RL-based reward system for training the AI  
+- Enhanced user engagement with Django + HTML/CSS  
+- Educational use-case for understanding agent-based learning  
+**Tech:** Python, Django, RL, HTML, CSS  
+
+---
+
+## 🌐 Web Projects
+
+### 🏛️ **Event — Virtual Event Hosting Web Platform**  
+A dynamic platform for browsing & booking events with a responsive UI.
+
+- Interactive venue listing  
+- User-friendly design  
+- Smooth navigation and performance  
+**Tech:** HTML, CSS, JavaScript  
+
+---
+
+## 📜 Certifications
+
+- **Data Collection — Kaggle (2025)**  
+- **Python — Coursera (2024)**  
+- **DSA with C++ — Splen Technologies (2025)**  
+- **Problem Solving — HackerRank (2025)**  
+
+---
+
+## 🎓 Education
+
+**Lovely Professional University**  
+B.Tech — Computer Science & Engineering  
+📌 *Specialization:* **Artificial Intelligence & Machine Learning**  
+📌 CGPA: **8.10**
+
+---
+
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=<your-github-username>&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=srijan439&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijan439&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🔗 Let's Connect
 
-<p>
-<a href="https://linkedin.com/in/<your-linkedin>" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="mailto:<your-email>">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-</p>
+- 📧 **Email:** srijanm89@gmail.com  
+- 🔗 **LinkedIn:** www.linkedin.com/in/srijan-mishra05  
+- 🧑‍💻 **GitHub:** github.com/srijan439  
 
 ---
 
-⭐ **Thanks for visiting my profile!**
-If you like my work, feel free to ⭐ star my repositories or reach out — I’m always happy to collaborate and learn from others.
+## ⭐ Vision
+
+My goal is to become a skilled **AI/ML Engineer** capable of creating scalable, impactful AI-driven applications.  
+I am continuously learning, experimenting, and pushing myself to build better, smarter, and more meaningful technology.
 
 ---
 
-### Quick customization checklist (do this once)
-
-* Replace `srijan@example.com` and `<your-github-username>` / `<your-linkedin>` with your real values.
-* Replace each `<link-to-repo>` with the real repo URL and add demo GIFs/screenshots for the featured projects.
-* Optionally add a short education or certifications section if you want to showcase academics.
-
-
-
-* Insert your **actual GitHub username and email** into this README and return a ready-to-paste file.
-* Convert this into a **profile README** with badges, a resume link, and demo GIFs added automatically (if you paste the exact project links).
+### If you like my projects, consider ⭐ starring the repositories!  
