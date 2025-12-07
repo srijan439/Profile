@@ -1,119 +1,135 @@
-<!-- GitHub Profile README for Srijan Mishra -->
+<!-- Improved GitHub Profile README for Srijan Mishra -->
 
-<h1 align="center">👋 Hi, I'm <span style="color:#58a6ff;">Srijan Mishra</span></h1>
-<h3 align="center">AI & Machine Learning Enthusiast | CSE Undergraduate | Developer</h3>
+<h1 align="center">👋 Hey, I'm <span style="color:#58a6ff;">Srijan Mishra</span></h1>
+<h3 align="center">AI & ML Enthusiast | CSE Undergraduate | Developer</h3>
 
 <p align="center">
-  <a href="mailto:srijanm89@gmail.com"><img src="https://img.shields.io/badge/-srijanm89%40gmail.com-D14836?logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/srijan-mishra05/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/srijan439"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white"></a>
+  <a href="mailto:srijanm89@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/srijan-mishra05/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/srijan439"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-I’m a **Computer Science and Engineering** student specializing in **Artificial Intelligence and Machine Learning**, passionate about building intelligent systems that learn, adapt, and solve real-world problems.
-
-My interests revolve around:
-
-- 🤖 **Machine Learning & Predictive Modelling**  
-- 🎮 **Reinforcement Learning (Game-based AI)**  
-- 🧠 **Neural Networks & Deep Learning**  
-- 🌐 **Web Development & Interactive UI/UX**  
-- 🛠️ **Automation & Problem-Solving**
-
-I love transforming ideas into working prototypes — whether it's an ML model, a game AI, or a complete web-based application.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Reinforcement+Learning+Explorer;Web+Developer;Always+Learning+New+Things!" />
+</p>
 
 ---
 
-## 🚀 Current Focus
+## 👨‍💻 **About Me**
 
-🔭 Currently pursuing specialization in **AI & Machine Learning**  
-🌱 Learning **Deep Learning, TensorFlow, PyTorch, and ML Pipelines**  
-💡 Improving my skills in **model optimization, data preprocessing, and feature engineering**  
-🎯 Goal: Build more industry-grade ML and AI-driven systems  
+I'm a **Computer Science & Engineering (AI/ML specialization)** student passionate about building **intelligent systems**, solving problems, and creating interactive tech.
+
+✨ I love:  
+- 🤖 Machine Learning & Predictive Models  
+- 🎮 Reinforcement Learning (Game AI)  
+- 🧠 Neural Networks & DL  
+- 🌐 Web Development  
+- ⚙️ Automation & Optimization  
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 **Current Focus**
+
+- ⭐ Specializing in **AI & Machine Learning**  
+- 📘 Learning **TensorFlow**, **PyTorch**, & **ML Pipelines**  
+- 🎯 Goal → Build scalable **AI-driven systems** & impactful ML models  
+
+---
+
+## 🛠️ **Tech Stack**
 
 ### **Languages**
-➡️ Python • C++ • Java • HTML • CSS • JavaScript  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js" />
+</p>
 
 ### **AI / ML Tools**
-➡️ NumPy • Pandas • Scikit-Learn • Matplotlib • Reinforcement Learning  
-➡️ Data Preprocessing • Feature Engineering • Model Evaluation  
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+</p>
 
 ### **Developer Tools**
-➡️ Linux/Kali • VMware • Ubuntu • Git • VS Code • Jira  
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,ubuntu" />
+</p>
 
 ---
 
-## 🔬 AI & ML Projects
+## 🔬 **AI & ML Projects**
 
 ### 🎮 **Battle-with-AI (Reinforcement Learning Game AI)**
-A custom-built interactive game designed using **Reinforcement Learning concepts** to simulate decision-making and adaptive gameplay.
+A custom game built using **Reinforcement Learning** to simulate intelligent decision-making.
 
-- RL-based reward system for training the AI  
-- Enhanced user engagement with Django + HTML/CSS  
-- Educational use-case for understanding agent-based learning  
-**Tech:** Python, Django, RL, HTML, CSS  
+✔ RL-based reward system  
+✔ Django-powered interactive UI  
+✔ Great for educational RL understanding  
+**Tech:** Python, RL, Django, HTML/CSS  
 
 ---
 
-## 🌐 Web Projects
+## 🌐 **Web Development Projects**
 
-### 🏛️ **Event — Virtual Event Hosting Web Platform**  
-A dynamic platform for browsing & booking events with a responsive UI.
+### 🏛️ **Event – Virtual Event Hosting Platform**
+A smooth, responsive event-browsing & booking web app.
 
-- Interactive venue listing  
-- User-friendly design  
-- Smooth navigation and performance  
+✔ Interactive UI  
+✔ User-friendly navigation  
+✔ Dynamic content rendering  
 **Tech:** HTML, CSS, JavaScript  
 
 ---
 
-## 📜 Certifications
+## 📜 **Certifications**
 
-- **Data Collection — Kaggle (2025)**  
-- **Python — Coursera (2024)**  
-- **DSA with C++ — Splen Technologies (2025)**  
-- **Problem Solving — HackerRank (2025)**  
+- 🏅 Data Collection — Kaggle (2025)  
+- 🐍 Python — Coursera (2024)  
+- 💻 DSA with C++ — Splen Tech (2025)  
+- 🎯 Problem Solving — HackerRank (2025)  
 
 ---
 
-## 🎓 Education
+## 🎓 **Education**
 
 **Lovely Professional University**  
-B.Tech — Computer Science & Engineering  
-📌 *Specialization:* **Artificial Intelligence & Machine Learning**  
-📌 CGPA: **8.10**
+**B.Tech — CSE (AI & Machine Learning)**  
+🎯 CGPA: **8.10**
 
 ---
 
-## 📊 GitHub Overview
+## 📊 **GitHub Analytics**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srijan439&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijan439&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=srijan439&show_icons=true&theme=tokyonight" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijan439&layout=compact&theme=tokyonight" height="170">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srijan439&theme=tokyonight" height="180">
 </p>
 
 ---
 
-## 🔗 Let's Connect
+## 🤝 **Connect With Me**
 
-- 📧 **Email:** srijanm89@gmail.com  
-- 🔗 **LinkedIn:** www.linkedin.com/in/srijan-mishra05  
-- 🧑‍💻 **GitHub:** github.com/srijan439  
-
----
-
-## ⭐ Vision
-
-My goal is to become a skilled **AI/ML Engineer** capable of creating scalable, impactful AI-driven applications.  
-I am continuously learning, experimenting, and pushing myself to build better, smarter, and more meaningful technology.
+- 📧 Email: **srijanm89@gmail.com**  
+- 🔗 LinkedIn: **linkedin.com/in/srijan-mishra05**  
+- 🧑‍💻 GitHub: **github.com/srijan439**
 
 ---
 
-### If you like my projects, consider ⭐ starring the repositories!  
+## ⭐ **Vision**
+
+I aim to become a skilled **AI/ML Engineer**, building impactful AI systems that solve real-world challenges.  
+I love experimenting, learning, and pushing boundaries in tech.
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider **starring my repositories**!
+</p>
+
