@@ -1,5 +1,3 @@
-<!-- GitHub Profile README for Srijan Mishra -->
-
 <h1 align="center">👋 Hey, I'm <span style="color:#58a6ff;">Srijan Mishra</span></h1>
 <h3 align="center">AI & ML Enthusiast | CSE Undergraduate | Developer</h3>
 
