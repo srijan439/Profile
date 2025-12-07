@@ -1,4 +1,4 @@
-<!-- Improved GitHub Profile README for Srijan Mishra -->
+<!-- GitHub Profile README for Srijan Mishra -->
 
 <h1 align="center">👋 Hey, I'm <span style="color:#58a6ff;">Srijan Mishra</span></h1>
 <h3 align="center">AI & ML Enthusiast | CSE Undergraduate | Developer</h3>
@@ -24,7 +24,7 @@ I'm a **Computer Science & Engineering (AI/ML specialization)** student passiona
 ✨ I love:  
 - 🤖 Machine Learning & Predictive Models  
 - 🎮 Reinforcement Learning (Game AI)  
-- 🧠 Neural Networks & DL  
+- 🧠 Neural Networks & Deep Learning  
 - 🌐 Web Development  
 - ⚙️ Automation & Optimization  
 
@@ -33,8 +33,8 @@ I'm a **Computer Science & Engineering (AI/ML specialization)** student passiona
 ## 🚀 **Current Focus**
 
 - ⭐ Specializing in **AI & Machine Learning**  
-- 📘 Learning **TensorFlow**, **PyTorch**, & **ML Pipelines**  
-- 🎯 Goal → Build scalable **AI-driven systems** & impactful ML models  
+- 📘 Learning ML pipelines, optimization & model engineering  
+- 🎯 Goal → Build meaningful AI-driven applications  
 
 ---
 
@@ -42,20 +42,20 @@ I'm a **Computer Science & Engineering (AI/ML specialization)** student passiona
 
 ### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css" />
 </p>
 
 ### **AI / ML Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 </p>
 
 ### **Developer Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
 </p>
 
 ---
@@ -68,6 +68,7 @@ A custom game built using **Reinforcement Learning** to simulate intelligent dec
 ✔ RL-based reward system  
 ✔ Django-powered interactive UI  
 ✔ Great for educational RL understanding  
+
 **Tech:** Python, RL, Django, HTML/CSS  
 
 ---
@@ -78,8 +79,9 @@ A custom game built using **Reinforcement Learning** to simulate intelligent dec
 A smooth, responsive event-browsing & booking web app.
 
 ✔ Interactive UI  
-✔ User-friendly navigation  
-✔ Dynamic content rendering  
+✔ Easy navigation  
+✔ Dynamic elements  
+
 **Tech:** HTML, CSS, JavaScript  
 
 ---
@@ -101,7 +103,7 @@ A smooth, responsive event-browsing & booking web app.
 
 ---
 
-## 📊 **GitHub Analytics**
+## 📊 **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=srijan439&show_icons=true&theme=tokyonight" height="170">
@@ -132,4 +134,3 @@ I love experimenting, learning, and pushing boundaries in tech.
 <p align="center">
   ⭐ If you like my work, consider **starring my repositories**!
 </p>
-
