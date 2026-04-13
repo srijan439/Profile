@@ -1,4 +1,4 @@
-<h1 align="center">Srijan Mishra</h1>
+<h1 align="center">👋Hello, I'm Srijan Mishra</h1>
 <h3 align="center">B.Tech CSE (AI & ML) · Lovely Professional University · CGPA 8.20</h3>
 
 <p align="center">
@@ -14,18 +14,35 @@
 
 ---
 
-## About
+## 🧑‍💻 About Me
 
-CSE undergraduate specializing in **Artificial Intelligence & Machine Learning**. I build intelligent systems from reinforcement-learning game agents to hybrid AI medical diagnostics and bridge the gap between ML research and practical applications. Currently contributing to LLM training pipelines as a Data Annotation Expert.
+```python
+class Mishra:
+    def __init__(self):
+        self.name        = "Srijan Mishra"
+        self.role            = "B.Tech CSE (AI & ML) Student"
+        self.location        = "India 🇮🇳"
+        self.interests       = ["Machine Learning", "Reinforcement Learning", "Full-Stack Dev"]
+        self.current_focus   = "Building intelligent, real-world AI systems"
+        self.looking_for     = "Internships & research collaborations in AI/ML"
 
-- Deepening expertise in ML pipelines, model optimization, and neural architectures
-- Exploring reinforcement learning for intelligent decision-making agents
-- Building full-stack applications with React, Node.js, and MongoDB
-- Open to internships and research collaborations in AI/ML
+    def say_hi(self):
+        print("Thanks for stopping by! Let's connect and build something impactful together!")
+
+me = Mishra()
+me.say_hi()
+```
 
 ---
 
-## Tech Stack
+- 🎓 **Education:** Pursuing B.Tech in Computer Science — AI & Machine Learning specialization
+- 🔬 **Current Focus:** ML pipelines, model optimization, and reinforcement learning agents
+- 🌱 **Learning:** Advanced deep learning, MLOps, CI/CD for ML, and model deployment
+- 🏥 **Latest Project:** SympTech — AI-driven hybrid medical diagnosis system
+- 💡 **Goal:** Contribute to AI research and build solutions that make a real-world impact
+- ⚡ **Fun Fact:** I believe the best way to learn AI is by building it from scratch!
+
+## 🛠️Tech Stack
 
 **AI / ML**
 
@@ -62,7 +79,7 @@ CSE undergraduate specializing in **Artificial Intelligence & Machine Learning**
 
 ---
 
-## Featured Projects
+## 🚀Featured Projects
 
 ### 🤖 Game AI -> Reinforcement Learning Agent
 > An AI agent that learns gameplay strategies via RL algorithms, achieving progressively better decision-making. Designed for cognitive-learning and educational training use cases with a Django-powered interactive UI.
@@ -96,7 +113,7 @@ CSE undergraduate specializing in **Artificial Intelligence & Machine Learning**
 
 ---
 
-## Competitive Programming
+## 📈Competitive Programming
 
 | Platform | Stats |
 |---|---|
@@ -118,7 +135,7 @@ CSE undergraduate specializing in **Artificial Intelligence & Machine Learning**
 
 ---
 
-## Certifications
+## 🏆Certifications
 
 | Certificate | Issuer | Year |
 |---|---|---|
@@ -131,7 +148,43 @@ CSE undergraduate specializing in **Artificial Intelligence & Machine Learning**
 | Data Collection | Kaggle | 2025 |
 
 ---
+## 🎯Current Focus Areas
 
+
+```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#7F77DD',
+    'primaryTextColor': '#ffffff',
+    'primaryBorderColor': '#534AB7',
+    'lineColor': '#1D9E75',
+    'secondaryColor': '#1D9E75',
+    'tertiaryColor': '#D4537E',
+    'background': '#ffffff',
+    'fontFamily': 'Verdana',
+    'fontSize': '14px'
+  }
+}}%%
+mindmap
+  root((AI/ML Journey))
+    Machine Learning
+      Supervised Learning
+      Unsupervised Learning
+      Model Optimization
+    Deep Learning
+      Neural Networks
+      CNNs
+      Transfer Learning
+    MLOps
+      Model Deployment
+      CI/CD for ML
+      Monitoring
+    Research
+      Paper Implementation
+      Novel Architectures
+      Real-world Applications
+```
 ## Education
 
 **B.Tech Computer Science Engineering — AI & ML Specialization**  
@@ -145,7 +198,6 @@ Lovely Professional University, Phagwara · Aug 2023 – Present · CGPA: **8.20
 Contributing to AI training projects across text, image, and classification domains. Improving accuracy of machine learning and LLM systems through precise labelling and feedback.
 
 ---
-
 <p align="center">
   <a href="https://portfolio-rosy-seven-23.vercel.app/">
     <img src="https://img.shields.io/badge/View%20Full%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
